@@ -1,0 +1,42 @@
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\bin\Debug\net8.0-windows\prakt_5.exe
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\bin\Debug\net8.0-windows\prakt_5.deps.json
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\bin\Debug\net8.0-windows\prakt_5.runtimeconfig.json
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\bin\Debug\net8.0-windows\prakt_5.dll
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\bin\Debug\net8.0-windows\prakt_5.pdb
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\obj\Debug\net8.0-windows\prakt_5_MarkupCompile.cache
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\obj\Debug\net8.0-windows\prakt_5_MarkupCompile.lref
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\obj\Debug\net8.0-windows\prakt_5.g.resources
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\obj\Debug\net8.0-windows\prakt_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\obj\Debug\net8.0-windows\prakt_5.AssemblyInfoInputs.cache
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\obj\Debug\net8.0-windows\prakt_5.AssemblyInfo.cs
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\obj\Debug\net8.0-windows\prakt_5.csproj.CoreCompileInputs.cache
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\obj\Debug\net8.0-windows\prakt_5.dll
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\obj\Debug\net8.0-windows\refint\prakt_5.dll
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\obj\Debug\net8.0-windows\prakt_5.pdb
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\obj\Debug\net8.0-windows\prakt_5.genruntimeconfig.cache
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\obj\Debug\net8.0-windows\ref\prakt_5.dll
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\obj\Debug\net8.0-windows\Windows\MainWindow.g.cs
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\obj\Debug\net8.0-windows\Windows\MainWindow.baml
+C:\Users\st310-12\Desktop\Зиятдинова\prakt_5\obj\Debug\net8.0-windows\App.baml
+F:\ИС РПО\prakt_4_Convertor\bin\Debug\net8.0-windows\prakt_5.exe
+F:\ИС РПО\prakt_4_Convertor\bin\Debug\net8.0-windows\prakt_5.deps.json
+F:\ИС РПО\prakt_4_Convertor\bin\Debug\net8.0-windows\prakt_5.runtimeconfig.json
+F:\ИС РПО\prakt_4_Convertor\bin\Debug\net8.0-windows\prakt_5.dll
+F:\ИС РПО\prakt_4_Convertor\bin\Debug\net8.0-windows\prakt_5.pdb
+F:\ИС РПО\prakt_4_Convertor\obj\Debug\net8.0-windows\Windows\MainWindow.g.cs
+F:\ИС РПО\prakt_4_Convertor\obj\Debug\net8.0-windows\App.g.cs
+F:\ИС РПО\prakt_4_Convertor\obj\Debug\net8.0-windows\prakt_5_MarkupCompile.cache
+F:\ИС РПО\prakt_4_Convertor\obj\Debug\net8.0-windows\prakt_5_MarkupCompile.lref
+F:\ИС РПО\prakt_4_Convertor\obj\Debug\net8.0-windows\App.baml
+F:\ИС РПО\prakt_4_Convertor\obj\Debug\net8.0-windows\Windows\MainWindow.baml
+F:\ИС РПО\prakt_4_Convertor\obj\Debug\net8.0-windows\prakt_5.g.resources
+F:\ИС РПО\prakt_4_Convertor\obj\Debug\net8.0-windows\prakt_5.GeneratedMSBuildEditorConfig.editorconfig
+F:\ИС РПО\prakt_4_Convertor\obj\Debug\net8.0-windows\prakt_5.AssemblyInfoInputs.cache
+F:\ИС РПО\prakt_4_Convertor\obj\Debug\net8.0-windows\prakt_5.AssemblyInfo.cs
+F:\ИС РПО\prakt_4_Convertor\obj\Debug\net8.0-windows\prakt_5.csproj.CoreCompileInputs.cache
+F:\ИС РПО\prakt_4_Convertor\obj\Debug\net8.0-windows\prakt_5.dll
+F:\ИС РПО\prakt_4_Convertor\obj\Debug\net8.0-windows\refint\prakt_5.dll
+F:\ИС РПО\prakt_4_Convertor\obj\Debug\net8.0-windows\prakt_5.pdb
+F:\ИС РПО\prakt_4_Convertor\obj\Debug\net8.0-windows\prakt_5.genruntimeconfig.cache
+F:\ИС РПО\prakt_4_Convertor\obj\Debug\net8.0-windows\ref\prakt_5.dll

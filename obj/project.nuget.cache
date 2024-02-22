@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bYQHtKG6DQgYxYhEDl0iS9IjM+Zhh0FN92LPlSh9HG+ZNJfK829XttdfEhW+xWGfMuHgllbeT3MTUJtBHIxJ+g==",
+  "success": true,
+  "projectFilePath": "F:\\ИС РПО\\prakt_4_Convertor\\prakt_5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aalin\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
